@@ -1,0 +1,22 @@
+[
+  {
+    "StudentName": "John Doe",
+    "CourseName": "Introduction to Databases",
+    "Grade": "A"
+  },
+  {
+    "StudentName": "John Doe",
+    "CourseName": "Web Development",
+    "Grade": "B"
+  },
+  {
+    "StudentName": "Bob Johnson",
+    "CourseName": "Data Structures",
+    "Grade": "C"
+  },
+  {
+    "StudentName": "Jane Smith",
+    "CourseName": "Introduction to Databases",
+    "Grade": "A"
+  }
+]
